@@ -1,2 +1,2 @@
-# my-second-repo
+# my-repo
 my second repo on github
